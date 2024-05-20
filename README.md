@@ -11,7 +11,6 @@ Languages: Python, Java, C#, .NET, JavaScript, NodeJS, C++, SQL, HTML, CSS, XML,
 Database: SQL Server, MySQL, MongoDB, Neo4J, H-2 Database, M Query, DAX Query  
 Data Tools: Azure DataBricks, Azure Data Factory, Power Query, Cosmos DB, PowerBI, SSIS, SSAS, Apache Spark  
 Other Tools: SharePoint, Dynamics 365, ArcGIS, Git, Docker, Power Automate, Microsoft Fabric, Git, SNOW, Kafka  
-Coursework: Algorithms, Big Data, Object Oriented Programming, Artificial Intelligence, DSA, Distributed Systems  
 
 ✨ Experience and Achievements  
 

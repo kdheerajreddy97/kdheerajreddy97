@@ -5,7 +5,7 @@
 💞️  I'm always excited to work with new and challenging domains of technology (especially computer science)  
 📫 How to reach me: kdheerajreddy97@gmail.com  
 
-💻 Tech Stack
+💻 Tech Stack  
 
 Languages: Python, Java, C#, .NET, JavaScript, NodeJS, C++, SQL, HTML, CSS, XML, C  
 Database: SQL Server, MySQL, MongoDB, Neo4J, H-2 Database, M Query, DAX Query  
@@ -13,18 +13,18 @@ Data Tools: Azure DataBricks, Azure Data Factory, Power Query, Cosmos DB, PowerB
 Other Tools: SharePoint, Dynamics 365, ArcGIS, Git, Docker, Power Automate, Microsoft Fabric, Git, SNOW, Kafka  
 Coursework: Algorithms, Big Data, Object Oriented Programming, Artificial Intelligence, DSA, Distributed Systems  
 
-✨ Experience and Achievements
+✨ Experience and Achievements  
 
-Software Engineering Intern at RIT Auxillary Services
-Student Technician at RIT
-Tutor - MATH 161 Applied Statistics course
-Software Engineering Intern at Excellus BCBS
-Software Engineer at MAQSoftware
+Software Engineering Intern at RIT Auxillary Services  
+Student Technician at RIT  
+Tutor - MATH 161 Applied Statistics course  
+Software Engineering Intern at Excellus BCBS  
+Software Engineer at MAQSoftware  
 
-🔧 Let's Connect!
+🔧 Let's Connect!  
 
-A passionate and performance-oriented software engineer with hands-on experience in data engineering, software development, and process optimization. If you have exciting opportunities or ideas to collaborate on, feel free to reach out!
+A passionate and performance-oriented software engineer with hands-on experience in data engineering, software development, and process optimization. If you have exciting opportunities or ideas to collaborate on, feel free to reach out!  
 
-Connect with me on LinkedIn to stay updated with my latest projects and achievements.
-https://www.linkedin.com/in/kdheerajreddy/
+Connect with me on LinkedIn to stay updated with my latest projects and achievements.  
+https://www.linkedin.com/in/kdheerajreddy/  
 

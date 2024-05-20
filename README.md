@@ -1,8 +1,8 @@
 
 👋 Hi, I’m @dheerajreddykukkala  
-👀 I’m interested in Full Stack Development  
+👀 I’m interested in software development, data engineering, and process optimization 
 🌱 I’m currently learning how to be a better learner  
-💞️  I'm always excited to work with new and challenging domains of technology (especially computer science)  
+💞️ I'm always excited to work with new and challenging domains of technology (especially computer science)  
 📫 How to reach me: kdheerajreddy97@gmail.com  
 
 💻 Tech Stack  
@@ -22,8 +22,6 @@ Software Engineering Intern at Excellus BCBS
 Software Engineer at MAQSoftware  
 
 🔧 Let's Connect!  
-
-A passionate and performance-oriented software engineer with hands-on experience in data engineering, software development, and process optimization. If you have exciting opportunities or ideas to collaborate on, feel free to reach out!  
 
 Connect with me on LinkedIn to stay updated with my latest projects and achievements.  
 https://www.linkedin.com/in/kdheerajreddy/  

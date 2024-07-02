@@ -7,7 +7,7 @@
 
 💻 Tech Stack  
 
-Languages: Python, Java, C#, .NET, JavaScript, NodeJS, C++, SQL, HTML, CSS, XML, C  
+Languages: Python, Java, C#, .NET, JavaScript, ReactJS, NextJS, NodeJS, C++, SQL, HTML, CSS, XML, C  
 Database: SQL Server, MySQL, MongoDB, Neo4J, H-2 Database, M Query, DAX Query  
 Data Tools: Azure DataBricks, Azure Data Factory, Power Query, Cosmos DB, PowerBI, SSIS, SSAS, Apache Spark  
 Other Tools: SharePoint, Dynamics 365, ArcGIS, Git, Docker, Power Automate, Microsoft Fabric, Git, SNOW, Kafka  

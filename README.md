@@ -14,10 +14,11 @@ Other Tools: SharePoint, Dynamics 365, ArcGIS, Git, Docker, Power Automate, Micr
 
 ✨ Experience and Achievements  
 
-Software Engineering Intern at RIT Auxillary Services  
+Software Engineer at Croyance
+Software & Data Engineering Intern at RIT Auxillary Services  
 Student Technician at RIT  
 Tutor - MATH 161 Applied Statistics course  
-Software Engineering Intern at Excellus BCBS  
+Software & Data Engineering Intern at Excellus BCBS  
 Software Engineer at MAQSoftware  
 
 🔧 Let's Connect!  

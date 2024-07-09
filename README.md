@@ -14,7 +14,7 @@ Other Tools: SharePoint, Dynamics 365, ArcGIS, Git, Docker, Power Automate, Micr
 
 ✨ Experience and Achievements  
 
-Software Engineer at Croyance
+Software Engineer at Croyance  
 Software & Data Engineering Intern at RIT Auxillary Services  
 Student Technician at RIT  
 Tutor - MATH 161 Applied Statistics course  

@@ -33,6 +33,3 @@ Software Engineer at MAQSoftware
 Connect with me on LinkedIn to stay updated with my latest projects and achievements.  
 https://www.linkedin.com/in/kdheerajreddy/  
 
-<p align="center">
-	<img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=kdheerajreddy97&include_all_commits=true&hide_border=true&theme=dark&animation=true"/>
-</p>

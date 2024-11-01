@@ -65,8 +65,18 @@ Software Engineer at MAQSoftware
 
   
 
-🔧 Let's Connect!  
+<br><br><br>
+<!-- Socials --> 
+<div align="center">
+	<a href="https://www.linkedin.com/in/kdheerajreddy/" target="blank" title="LinkedIn">
+		<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 2rem"/>
+	</a>
+	<a href="mailto:kdheerajreddy97@gmail.com" target="blank" title="GMail">
+		<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 2rem"/>
+	</a>
+	<a href="https://dheerajreddy-site.vercel.app" target="blank" title="Portfolio">
+		<img src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-512.png" style="height: 2rem"/>
+	</a>
 
-Connect with me on LinkedIn to stay updated with my latest projects and achievements.  
-https://www.linkedin.com/in/kdheerajreddy/  
+</div>
 

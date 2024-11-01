@@ -64,8 +64,9 @@ Software Engineer at MAQSoftware
   
 
   
-🔧 Let's Connect! 
+
 <br><br><br>
+🔧 Let's Connect! 
 <!-- Socials --> 
 <div align="center">
 	<a href="https://www.linkedin.com/in/kdheerajreddy/" target="blank" title="LinkedIn">

@@ -47,13 +47,6 @@ Software Engineer at MAQSoftware
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### Big Data
-![KAFKA](https://img.shields.io/badge/APACHE%20kafka-%6300599C.svg?style=for-the-adge&logo=Apachekafka&logoColor=white)
-![SPARK](https://img.shields.io/badge/APACHE%20SPARK-%2300199C.svg?style=for-the-adge&logo=ApacheSpark&logoColor=white)
-![HIVE](https://img.shields.io/badge/apache%20hive-FF6600?style=for-the-badge&logo=apachehive&logoColor=white)
-![HADOOP](https://img.shields.io/badge/apache%20hadoop-4A90E2?style=for-the-badge&logo=apachehadoop&logoColor=000)
-![PRESTO](https://img.shields.io/badge/presto-168363?style=for-the-badge&logo=presto&logoColor=white)
-![TABLEAU](https://img.shields.io/badge/tableau-0089D6?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)

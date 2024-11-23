@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-	<img width="160em" height="163" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdheerajreddy97&layout=compact&custom_title=Most%20Used%20languages&langs_count=6&include_all_commits=true&hide_progress=false&theme=dark&animation=true&hide=">
+	<img width="415em" height="163" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdheerajreddy97&layout=compact&custom_title=Most%20Used%20languages&langs_count=6&include_all_commits=true&hide_progress=false&theme=dark&animation=true&hide=">
 	<img width="415em" src="https://leetcard.jacoblin.cool/Dheeraj_Reddy_K?animation=true&theme=dark" />
 </p>
 

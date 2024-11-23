@@ -23,15 +23,6 @@
 
   
 
-### Experience ✨ 
-
-Software Engineer at Croyance  
-Software Engineering Intern at RIT Auxillary Services  
-Student Technician at RIT  
-Tutor - MATH 161 Applied Statistics course  
-Software Engineering Intern at Excellus BCBS  
-Software Engineer at MAQSoftware  
-
   
 ### Programming Languages
 

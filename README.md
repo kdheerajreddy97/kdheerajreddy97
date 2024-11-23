@@ -27,7 +27,7 @@
 
 
   
-✨ Experience and Achievements  
+Experience and Achievements  ✨ 
 
 Software Engineer at Croyance  
 Software Engineering Intern at RIT Auxillary Services  
@@ -37,7 +37,7 @@ Software Engineering Intern at Excellus BCBS
 Software Engineer at MAQSoftware  
 
 
-⚙️  Tech Stack
+Tech Stack ⚙️  
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +59,7 @@ Software Engineer at MAQSoftware
   
 
 <br><br><br>
-🔧 Let's Connect! 
+Let's Connect! 🔧 
 <!-- Socials --> 
 <div align="left">
 	<a href="https://www.linkedin.com/in/kdheerajreddy/" target="blank" title="LinkedIn">

@@ -55,7 +55,7 @@ Software Engineer at MAQSoftware
 
   
 
-<br><br><br>
+<br><br>
 ### Let's Connect! 🔧 
 <!-- Socials --> 
 <div align="left">

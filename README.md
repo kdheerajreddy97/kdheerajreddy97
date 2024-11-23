@@ -10,7 +10,7 @@
 <br>
 <p align="left">
   <a href="https://github.com/kdheerajreddy97">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kdheerajreddy97&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+    <img height="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kdheerajreddy97&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=kdheerajreddy97&include_all_commits=true&hide_border=true&theme=dark&animation=true"/>
   </a>
 </p>

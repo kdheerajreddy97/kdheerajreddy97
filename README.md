@@ -7,7 +7,7 @@
 
 
 
-
+<br>
 <p align="left">
   <a href="https://github.com/kdheerajreddy97">
     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kdheerajreddy97&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,6 @@
 
   
 
-<br>
 ### Experience ✨ 
 
 Software Engineer at Croyance  

@@ -27,7 +27,7 @@
 
 
   
-Experience and Achievements  ✨ 
+Experience ✨ 
 
 Software Engineer at Croyance  
 Software Engineering Intern at RIT Auxillary Services  

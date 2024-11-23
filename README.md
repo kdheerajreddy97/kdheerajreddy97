@@ -36,8 +36,7 @@ Tutor - MATH 161 Applied Statistics course
 Software Engineering Intern at Excellus BCBS  
 Software Engineer at MAQSoftware  
 
-
-### Tech Stack ⚙️  
+  
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
